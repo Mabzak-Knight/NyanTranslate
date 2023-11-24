@@ -1,7 +1,7 @@
 # NyanTranslate
 ![Icon](https://github.com/Mabzak-Knight/NyanTranslate/assets/56875726/b003fabd-da1d-4786-a8b0-83b33572b0c4)
 
-NyanTranslate is a simple translator application created using Python. The application uses Pygame for its graphical interface.
+NyanTranslate is a simple translator application created using Python.
 
 ## Supported Languages
 NyanTranslate is a program that can translate comics/manga into various languages, including:
