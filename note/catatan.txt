@@ -1,0 +1,5 @@
+reset flask di windows
+
+netstat -ano | findstr :5000
+
+taskkill /F /PID <PID>
