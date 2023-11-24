@@ -1,5 +1,5 @@
 from penerjemah_manga.assets.ctd import model2annotations, model2annotation
-from manga_ocr import MangaOcr
+from ocr.ocr import MangaOcr
 from PIL import Image
 from tqdm import tqdm
 
