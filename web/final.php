@@ -232,7 +232,7 @@
         </div>
       </div>
     </div>
-    <div style="color: white; margin-top: 880px; color: #ccc;" align="center"> Dibuat oleh @Al Khoir | <a href="#">Github</a> | <a target="_blank"  href="https://saweria.co/NyanTranslator">Donasi</a></div>
+    <div style="color: white; margin-top: 880px; color: #ccc;" align="center"> Dibuat oleh @Al Khoir | <a href="https://github.com/Mabzak-Knight/NyanTranslate">Github</a> | <a target="_blank"  href="https://saweria.co/NyanTranslator">Donasi</a></div>
     <!-- Modal -->
     <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
       <div class="modal-dialog modal-dialog-centered"  role="document"  style="max-width: 1200px;">
@@ -273,7 +273,7 @@
           <img src="font/logo.png" width="100" height="100" class="d-inline-block align-top mr-1  " alt="">
           </div>
           <div class="col-9">
-            Jangan lupa <a target="_blank" href="https://saweria.co/NyanTranslator">DONASI</a> untuk developer supaya semangat update aplikasinya. informasi update aplikasi terbaru ada di <a href="#">Github</a>, lapor error juga bisa lewat Github
+            Jangan lupa <a target="_blank" href="https://saweria.co/NyanTranslator">DONASI</a> untuk developer supaya semangat update aplikasinya. informasi update aplikasi terbaru ada di <a href="https://github.com/Mabzak-Knight/NyanTranslate">Github</a>, lapor error juga bisa lewat Github
           </div>
         </div>
       </div>
