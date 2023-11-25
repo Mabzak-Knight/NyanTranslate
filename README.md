@@ -51,3 +51,7 @@ Now, the NyanTranslate application should be running on your computer. Make sure
 
 Enjoy using NyanTranslate! If you encounter any issues or have questions, feel free to contact us.
 
+# Refrensi
+- [Comic-Text-Detector](https://github.com/kha-white/comic-text-detector/)
+- [Manga_ocr](https://github.com/kha-white/manga-ocr)
+
