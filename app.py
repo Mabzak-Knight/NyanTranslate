@@ -21,14 +21,14 @@ def process_data():
     bahasa = request.form['bahasa']  
     asal = request.form['asal']
     
-    print(asal)
-    
      # Periksa apakah file memiliki nama
     if data.filename == '':
         return 'No selected file'
     
-    data.save('gambar.png')
-    img="gambar.png"
+    print(f'project/{data.filename}')
+    
+    data.save(f'project/{data.filename}')
+    img=f'project/{data.filename}'
     bjepang,lines = save_and_translate(img)  
     
     print(bjepang)

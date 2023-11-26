@@ -900,7 +900,7 @@ function sendData() {
     const blob = dataURItoBlob(imgSrc);
 
     // Tambahkan hasil pemotongan sebagai file ke FormData
-    formData.append('data', blob, 'cropped_image.png');
+    formData.append('data', blob, `${fileName}.png`);
 
     fetch('/process_data', {
         method: 'POST',
