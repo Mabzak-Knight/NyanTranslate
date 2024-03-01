@@ -37,7 +37,8 @@ def xywh2xyxypoly(xywh, to_int=True):
     return xyxypoly
 
 def xyxy2yolo(xyxy, w: int, h: int):
-    if xyxy == [] or xyxy == np.array([]) or len(xyxy) == 0:
+    if xyxy is None or not np.any(xyxy):
+        print("Input xyxy kosong atau None. Mengembalikan None.")
         return None
     if isinstance(xyxy, list):
         xyxy = np.array(xyxy)
