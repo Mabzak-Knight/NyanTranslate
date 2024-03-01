@@ -41,7 +41,7 @@ The program can also translate text in Chinese and Japanese comics.
 4. Install project dependencies by running the command:
 
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirement.txt
     ```
 
 5. Run the application with the following command:
