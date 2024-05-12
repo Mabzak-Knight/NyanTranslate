@@ -58,3 +58,6 @@ Enjoy using NyanTranslate! If you encounter any issues or have questions, feel f
 - [Comic-Text-Detector](https://github.com/kha-white/comic-text-detector/)
 - [Manga_ocr](https://github.com/kha-white/manga-ocr)
 
+# Google Colab
+[Test run](https://colab.research.google.com/drive/1VYGrG1XeBse_iUM4QfQHpbL7l0nyzQox?usp=sharing)
+
