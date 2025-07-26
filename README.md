@@ -1,6 +1,10 @@
 # NyanTranslate
 ![Icon](https://github.com/Mabzak-Knight/NyanTranslate/assets/56875726/b003fabd-da1d-4786-a8b0-83b33572b0c4)
 
+Versi Python: 3.11.5 ✅
+
+Versi pip: 23.2.1 ✅
+
 NyanTranslate is a simple translator application created using Python.
 
 ## Demo
